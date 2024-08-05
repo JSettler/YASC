@@ -6,9 +6,9 @@ Yet Another Splix Clone, written in Python 3 with pygame library
  keyboard commands for YASC 1.0:
  -------------------------------
 
- movement: <cursor keys> (up, down, left. right)
+ movement: [cursor keys] (up, down, left. right)
 
- quit game: <escape>
+ quit game: [escape]
 
  pause your snake movement: 'P'
 
