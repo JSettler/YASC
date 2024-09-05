@@ -1,7 +1,7 @@
 #################################################################################
 #                                                                               #
 # YASC is an offline implementation of Splix.io with bots, written in Python3   #
-# Copyright (C) 2024 by paws9678 @ Discord                                      #
+# Copyright (C) 2024 by JSettler @ GitHub                                       #
 #                                                                               #
 # This program is free software: you can redistribute it and/or modify          #
 # it under the terms of the GNU [Affero] General Public License as published by #
