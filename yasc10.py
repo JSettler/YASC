@@ -24,7 +24,7 @@
 #
 # These constants are probably the most interesting for you:
 # MIN_AREA, NUM_BOTS, MIN_SPAWN_DISTANCE, BOT_VS_BOT_AGGRESSION, BOT_VS_PLAYER_AGGRESSION, PLAYER_PROXIMITY_FACTOR and PROXIMITY_THRESHOLD
-# maybe also TILE_SIZE (but this isn't tested as thoroughly)
+# maybe also TILE_SIZE (but this wasn't tested as thoroughly)
 
 
 import pygame
